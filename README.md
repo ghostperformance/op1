@@ -32,6 +32,10 @@ MAD mode (ON by default) for no disengae on brake or gas.
 
 SMDPS Toggle available for thoes with SMPDS.
 
+WiFi Hot Spot Auto Start on drive
+
+End WiFi Hot Spot on end of drive
+
 On screen blinkers and blind spot alerts.
 
 Auto Lane Change with Blind spot monitoring (No Nudge)
