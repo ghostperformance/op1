@@ -22,7 +22,7 @@ https://api.retropilot.org/useradmin
 
 Make sure to shut off auto start stop or you will get steering temporarily unavailable if the engine shuts off.
 
-Dash cam recording from ui
+Screen recording from ui saved to /storage/emulated/0/videos
 
 Long control is radar + vision
 
