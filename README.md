@@ -18,7 +18,7 @@ Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_08
 
 Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/hkg_085_dev
 
-If you ran `git clone https://github.com/Circuit-Pro/openpilot.git` make sure to run `rm /data/params/d/DongleId` to reset your dongle ID.
+If you ran `git clone https://github.com/Circuit-Pro/openpilot.git` make sure too run `rm /data/params/d/DongleId` to reset your dongle ID.
 
 https://api.retropilot.org/useradmin
 
