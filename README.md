@@ -26,13 +26,13 @@ Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this 
 
 Make sure to shut off auto start stop or you will get steering temporarily unavailable if the engine shuts off.
 
-Screen recording from ui saved to `/storage/emulated/0/videos`
+Screen recording from ui saved too. `/storage/emulated/0/videos`
 
-Long control is radar + vision
+HKG Long control toggle. (radar + vision)
 
-Slow down for curves (BETA Reach out to johnpr#5623 if you find any better tunes.)
+Slow down for curves toggle.
 
-MAD mode (ON by default) for no disengae on brake or gas.
+MAD mode toggle for no disengae on brake or gas.
 
 SMDPS Toggle available for thoes with SMPDS.
 
@@ -42,11 +42,11 @@ End WiFi Hot Spot on end of drive toggle
 
 On screen blinkers and blind spot alerts.
 
-Auto Lane Change with Blind spot monitoring (No Nudge)
+Auto Lane Change with Blind spot monitoring toggle (No Nudge).
 
-Smooth SCC with SCC smoother
+SCC sync set speed on gas press toggle.
 
-SCC sync set speed on gas press.
+Smooth SCC with SCC smoother.
 
 Make sure to reboot with toggle changes.
 
