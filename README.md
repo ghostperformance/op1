@@ -28,7 +28,10 @@ Make sure to shut off auto start stop or you will get steering temporarily unava
 
 Screen recording from ui saved to. `/storage/emulated/0/videos`
 
-Delete UI Screen Recordings button in settings under device.
+Delete UI Screen Recordings button in `Settings` under `Device`.
+
+**Toggles**
+Toggles are in `Settings` under `Community`.
 
 HKG Long control toggle. (radar + vision)
 
