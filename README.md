@@ -74,7 +74,7 @@ https://github.com/xx979xx/openpilot
 
 https://www.amazon.com/dp/B07JCTZ3BF/ref=cm_sw_r_u_apa_glt_fabc_SNA9EVB27NT0DPRMEY3Q?psc=1
 
-Run `adb shell am start -a android.settings.APN_SETTINGS` and set APN name correctly for sim provider.
+Run `adb shell am start -a android.settings.SETTINGS` and go too `"SIM cards"` and under `Cellular network settings` choose either "SIM 1 settings" or "SIM 2 settings" (based on which slot you have your non comma sim installed in.) Then go to `Access Point Names` add and set APN name correctly for sim provider(for the one i'm using and linked above the APN username is `m2mglobal` leave everything else default or blank. (MCC 310, MNC 260)
 
 It is open source and inherits MIT license. It is open source and inherits MIT license.  By installing this software you accept all responsibility for anything that might occur while you use it.  All contributors to this fork are not liable.  <b>Use at your own risk.</b>
 ------------------------------------------------------
