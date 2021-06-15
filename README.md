@@ -2,7 +2,7 @@
 
 **Join the discussion here. https://discord.gg/zWSnqJ6rKD**
 
-**This fork is community supported we appreciate all help! Too get involved join https://discord.gg/zWSnqJ6rKD on discord.**
+**This fork is community supported we appreciate all help! Too get involved join us on discord. https://discord.gg/zWSnqJ6rKD**
 
 **Submit issues on the issues page in a detailed report on GitHub or for quick help post here in issues channel.  https://discord.gg/zWSnqJ6rKD**
 
