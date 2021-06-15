@@ -18,15 +18,15 @@ Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_08
 
 Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/hkg_085_dev
 
-If you ran git clone https://github.com/Circuit-Pro/openpilot.git make sure to run rm /data/params/d/DongleId to reset your dongle ID.
+If you ran `git clone https://github.com/Circuit-Pro/openpilot.git` make sure to run `rm /data/params/d/DongleId` to reset your dongle ID.
 
 https://api.retropilot.org/useradmin
 
-Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this command cd selfdrive && python ntune.py (make sure your not driving!)
+Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this command `cd selfdrive && python ntune.py` (make sure your not driving!)
 
 Make sure to shut off auto start stop or you will get steering temporarily unavailable if the engine shuts off.
 
-Screen recording from ui saved to /storage/emulated/0/videos
+Screen recording from ui saved to `/storage/emulated/0/videos`
 
 Long control is radar + vision
 
@@ -66,7 +66,7 @@ https://github.com/xx979xx/openpilot
 
 **Unlimited data, data only simcard C2 compatible.**
 
-Run '''adb shell am start -a android.settings.SETTINGS''' and set APN name correctly for sim provider.
+Run `adb shell am start -a android.settings.SETTINGS` and set APN name correctly for sim provider.
 
 https://www.amazon.com/dp/B07JCTZ3BF/ref=cm_sw_r_u_apa_glt_fabc_SNA9EVB27NT0DPRMEY3Q?psc=1
 
