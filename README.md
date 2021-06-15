@@ -64,6 +64,10 @@ https://github.com/neokii/op4
 
 https://github.com/xx979xx/openpilot
 
+**Unlimited data, data only simcard C2 compatible.**
+
+Run '''adb shell am start -a android.settings.SETTINGS''' and set APN name correctly for sim provider.
+
 https://www.amazon.com/dp/B07JCTZ3BF/ref=cm_sw_r_u_apa_glt_fabc_SNA9EVB27NT0DPRMEY3Q?psc=1
 
 It is open source and inherits MIT license. It is open source and inherits MIT license.  By installing this software you accept all responsibility for anything that might occur while you use it.  All contributors to this fork are not liable.  <b>Use at your own risk.</b>
