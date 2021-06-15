@@ -36,9 +36,9 @@ MAD mode toggle for no disengae on brake or gas.
 
 SMDPS Toggle available for thoes with SMPDS.
 
-WiFi Hot Spot Auto Start on drive toggle
+WiFi Hot Spot Auto Start on drive toggle.
 
-End WiFi Hot Spot on end of drive toggle
+End WiFi Hot Spot on end of drive toggle.
 
 On screen blinkers and blind spot alerts.
 
@@ -64,7 +64,7 @@ https://github.com/neokii/op4
 
 https://github.com/xx979xx/openpilot
 
-**Unlimited data, data only simcard C2 compatible.**
+**Unlimited data, data only simcard compatible with C2.**
 
 https://www.amazon.com/dp/B07JCTZ3BF/ref=cm_sw_r_u_apa_glt_fabc_SNA9EVB27NT0DPRMEY3Q?psc=1
 
