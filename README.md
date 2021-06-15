@@ -26,7 +26,9 @@ Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this 
 
 Make sure to shut off auto start stop or you will get steering temporarily unavailable if the engine shuts off.
 
-Screen recording from ui saved too. `/storage/emulated/0/videos`
+Screen recording from ui saved to. `/storage/emulated/0/videos`
+
+Delete UI Screen Recordings button in settings under device.
 
 HKG Long control toggle. (radar + vision)
 
