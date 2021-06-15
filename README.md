@@ -20,9 +20,9 @@ Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/hkg_085_d
 
 If you ran git clone https://github.com/Circuit-Pro/openpilot.git make sure to run rm /data/params/d/DongleId to reset your dongle ID.
 
-Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this command cd selfdrive && python ntune.py (make sure your not driving!)
-
 https://api.retropilot.org/useradmin
+
+Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this command cd selfdrive && python ntune.py (make sure your not driving!)
 
 Make sure to shut off auto start stop or you will get steering temporarily unavailable if the engine shuts off.
 
