@@ -6,7 +6,7 @@
 
 **Submit issues on the issues page in a detailed report on GitHub or for quick help post here in issues channel.  https://discord.gg/zWSnqJ6rKD**
 
-**This fork has full long control for all HKG and Harnessless for older 2015 & 2016 Genesis G80 without any radar harness mod. All other cars should require scc to be moved to bus 2 from bus 0 for full long control. Test out HKG Long even if you don't have a harness. It might work and let me know if it works and your car isn't on this list.**
+**This fork has full long control for all HKG and Harnessless for older 2015 & 2016 & 2017 Genesis G80(Fixed MDPS and SMDPS) without any radar harness mod. All other cars should require scc to be moved to bus 2 from bus 0 for full long control. Test out HKG Long even if you don't have a harness. It might work and let me know if it works and your car isn't on this list.**
 
 **Reach out to johnpr#5623 on discord too buy a harness. SMDPS harnesses aren't available for sale. Refrence this guide to build one. https://github.com/Circuit-Pro/openpilot/blob/main/Hyundai_MDPS_Comma_Harness.pdf**
 
