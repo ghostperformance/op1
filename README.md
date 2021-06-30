@@ -22,7 +22,7 @@ If you ran `git clone https://github.com/Circuit-Pro/openpilot.git` make sure to
 
 https://api.retropilot.org/useradmin
 
-Run nTune after 30 - 50 miles of driving. It autotune lateral control. Use this command `cd selfdrive && python ntune.py` (make sure your not driving!)
+**Run** nTune after 30 - 50 miles of driving. It will autotune lateral control. Use this command `cd selfdrive && python ntune.py` or use the button in `Settings` under `Device`. (make sure your not driving!)
 
 Make sure to shut off auto start stop or you will get steering temporarily unavailable if the engine shuts off.
 
