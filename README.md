@@ -43,6 +43,8 @@ MAD mode toggle for no disengae on brake or gas.
 
 SMDPS Toggle available for thoes with SMPDS.
 
+Stop Screen Capture on disengage toggle.
+
 WiFi Hot Spot Auto Start on drive toggle.
 
 End WiFi Hot Spot on end of drive toggle.
