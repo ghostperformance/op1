@@ -36,6 +36,9 @@ Female
 Black Panda
 - https://github.com/Circuit-Pro/openpilot/blob/main/648E3090-698D-4568-BCEE-E723442B3C00.jpeg
 
+RJ45 female connectors
+- https://www.amazon.com/dp/B07JRD69V6/ref=cm_sw_r_cp_api_glt_fabc_WTRZRMNRG20KSPHKRQSX?_encoding=UTF8&psc=1
+
 **By using this software you are responsible for anything that occurs while OpenPilot is engaged or disengaged. Be ready to take over at any moment. Fork maintainers assumes no liability for your use of this software and any hardware.**
 
 ***Install***
