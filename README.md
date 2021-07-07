@@ -15,7 +15,11 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 
 **This fork has full long control for all HKG and Harnessless for older 2015 & 2016 & 2017 Genesis G80(Fixed MDPS and SMDPS) without any radar harness mod. All other cars should require scc to be moved to bus 2 from bus 0 for full long control. Test out HKG Long even if you don't have a harness. It might work and let me know if it works and your car isn't on this list.**
 
-**Reach out to johnpr#5623 on discord too buy a harness. SMDPS or MDPS harnesses aren't available for sale. Refrence these guides to build one. https://github.com/Circuit-Pro/openpilot/blob/main/Hyundai_MDPS_Comma_Harness.pdf https://github.com/Circuit-Pro/openpilot/blob/main/Pinout%20For%20CommaPower%20to%20Micro64.pdf https://medium.com/@kyroapps/adding-support-for-lateral-control-below-51km-h-for-hyundai-vehicles-10be0b556371**
+**Reach out to johnpr#5623 on discord too buy a harness. SMDPS or MDPS harnesses aren't available for sale.
+**MDPS/SMDPS** Refrence these guides to build one. 
+- https://github.com/Circuit-Pro/openpilot/blob/main/Hyundai_MDPS_Comma_Harness.pdf 
+- https://github.com/Circuit-Pro/openpilot/blob/main/Pinout%20For%20CommaPower%20to%20Micro64.pdf 
+- https://medium.com/@kyroapps/adding-support-for-lateral-control-below-51km-h-for-hyundai-vehicles-10be0b556371**
 
 Kia Niro MDPS ECU - http://www.kniro.net/schematic_diagrams-1321.html
 
