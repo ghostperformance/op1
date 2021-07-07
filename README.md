@@ -17,7 +17,7 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 
 **Reach out to johnpr#5623 on discord too buy a harness. SMDPS or MDPS harnesses aren't available for sale. Refrence these guides to build one. https://github.com/Circuit-Pro/openpilot/blob/main/Hyundai_MDPS_Comma_Harness.pdf https://github.com/Circuit-Pro/openpilot/blob/main/Pinout%20For%20CommaPower%20to%20Micro64.pdf**
 
-Kia Niro - http://www.kniro.net/schematic_diagrams-1321.html
+Kia Niro MDPS ECU - http://www.kniro.net/schematic_diagrams-1321.html
 
 **By using this software you are responsible for anything that occurs while OpenPilot is engaged or disengaged. Be ready to take over at any moment. Fork maintainers assumes no liability for your use of this software and any hardware.**
 
