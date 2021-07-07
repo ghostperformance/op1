@@ -32,6 +32,8 @@ Female
 - https://www.mouser.com/ProductDetail/aptiv/15406142/?qs=xyz6lfZ1ktKtmezTNc3DLw%3D%3D&countrycode=CA&currencycode=CAD
 - https://www.mouser.com/ProductDetail/aptiv/15401440-l/?qs=NKHyz0HolODmWpNAvMSDSg%3D%3D&countrycode=CA&currencycode=CAD
 
+Black Panda
+- https://github.com/Circuit-Pro/openpilot/blob/main/648E3090-698D-4568-BCEE-E723442B3C00.jpeg
 
 **By using this software you are responsible for anything that occurs while OpenPilot is engaged or disengaged. Be ready to take over at any moment. Fork maintainers assumes no liability for your use of this software and any hardware.**
 
