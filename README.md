@@ -35,7 +35,9 @@ Delete UI Screen Recordings button in `Settings` under `Device`.
 
 Toggles are in `Settings` under `Community`.
 
-HKG Long control toggle. (radar + vision)
+HKG Long control toggle. (radar + vision) 
+
+  * Bring back my Lead Markers toggle for non HKG Longitudinal cars in `Community`. Not Recommended VERY MISSLEADING FOR STOCK LONGITUDINAL CARS!
 
 Slow down for curves toggle.
 
