@@ -19,6 +19,8 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 
 Kia Niro MDPS ECU - http://www.kniro.net/schematic_diagrams-1321.html
 
+MDPS Connector - https://www.aliexpress.com/item/32655106876.html
+
 **By using this software you are responsible for anything that occurs while OpenPilot is engaged or disengaged. Be ready to take over at any moment. Fork maintainers assumes no liability for your use of this software and any hardware.**
 
 ***Install***
