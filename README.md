@@ -38,6 +38,8 @@ Black Panda
 
 RJ45 female connectors
 - https://www.amazon.com/dp/B07JRD69V6/ref=cm_sw_r_cp_api_glt_fabc_WTRZRMNRG20KSPHKRQSX?_encoding=UTF8&psc=1
+RJ45 black panda adapter
+- https://github.com/Circuit-Pro/openpilot/blob/main/C50DC3FD-B803-4B67-A435-AA857EF2396B.png
 
 **By using this software you are responsible for anything that occurs while OpenPilot is engaged or disengaged. Be ready to take over at any moment. Fork maintainers assumes no liability for your use of this software and any hardware.**
 
