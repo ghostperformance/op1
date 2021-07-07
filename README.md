@@ -1,6 +1,6 @@
 **OpenPilot 0.8.5**
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NRFAJ6FYRLT2Y" 
+<a href="https://www.paypal.com/donate?business=NRFAJ6FYRLT2Y&no_recurring=0&item_name=Contribute+to+help+progress+JPR%27s+HKG+Fork&currency_code=USD" 
 target="_blank">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
