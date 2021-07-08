@@ -101,11 +101,13 @@ OpenPilot will not see totally stopped cars yet until E2E comes so do not trust 
 
 If Collision Warning is beeping at you OpenPilot has calculated it can't stop quick enough due to safety limitations on unintentional braking. Please apply brakes to avoid collision.
 
-**This is based on xx979xx & Neokii's fork and is tuned for Genesis G70, Kia Stinger, and works on others but not tested..**
+**This is based on xx979xx & Neokii's & crwusiz's fork and is tuned for Genesis G70, Kia Stinger, and works on others but not tested..**
 
 https://github.com/neokii/op4
 
 https://github.com/xx979xx/openpilot
+
+https://github.com/crwusiz/openpilot
 
 **Unlimited data, data only simcard compatible with C2.**
 
